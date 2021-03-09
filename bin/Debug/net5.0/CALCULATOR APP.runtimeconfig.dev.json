@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\WIBISONO\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\WIBISONO\\.nuget\\packages"
+    ]
+  }
+}
